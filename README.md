@@ -1,5 +1,7 @@
 comandos:
 
+Tecla enter para passar a intro(tela inicial)
+
 personagem 1:
 cima W
 baixo S
